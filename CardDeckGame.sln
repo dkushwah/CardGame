@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeckGame", "CardDeckGame\CardDeckGame.csproj", "{D52EF90C-B186-4DDD-974E-06ED458A129D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeckGame.Contract", "CardDeckGame.Contract\CardDeckGame.Contract.csproj", "{723855AB-66C5-46D5-9EF6-56E799F4EFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeckGame.Core", "CardDeckGame.Core\CardDeckGame.Core.csproj", "{BDBF109B-BC31-4796-9667-808113356B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeckGame.Impl", "CardDeckGame.Impl\CardDeckGame.Impl.csproj", "{D312C0B2-3D98-435D-8F36-4D34BA0B4A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52EF90C-B186-4DDD-974E-06ED458A129D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52EF90C-B186-4DDD-974E-06ED458A129D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52EF90C-B186-4DDD-974E-06ED458A129D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52EF90C-B186-4DDD-974E-06ED458A129D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723855AB-66C5-46D5-9EF6-56E799F4EFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723855AB-66C5-46D5-9EF6-56E799F4EFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723855AB-66C5-46D5-9EF6-56E799F4EFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723855AB-66C5-46D5-9EF6-56E799F4EFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBF109B-BC31-4796-9667-808113356B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBF109B-BC31-4796-9667-808113356B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBF109B-BC31-4796-9667-808113356B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBF109B-BC31-4796-9667-808113356B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D312C0B2-3D98-435D-8F36-4D34BA0B4A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D312C0B2-3D98-435D-8F36-4D34BA0B4A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D312C0B2-3D98-435D-8F36-4D34BA0B4A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D312C0B2-3D98-435D-8F36-4D34BA0B4A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0A155FF-C891-4C5A-AF51-636935CD2922}
+	EndGlobalSection
+EndGlobal
